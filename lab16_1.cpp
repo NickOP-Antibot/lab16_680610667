@@ -44,7 +44,7 @@ void showData(double* a, int N, int M){
 
 void randData(double * a, int N, int M){
     for(int i = 0; i < N*M; i++){
-        a[i] = (rand() % 100) / 100.0;
+        a[i] = (rand() % 101) / 100.0;
     }
 }
 
