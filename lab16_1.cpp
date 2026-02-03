@@ -69,3 +69,4 @@ void findColSum(const double *a, double *b, int N, int M){
 }
 
 
+
